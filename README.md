@@ -2,7 +2,7 @@
 
 Dogear is a schema and an LLM extraction contract for logging what happens on a film set. It is built for a chief lighting technician who wants notes that survive across years and projects, rather than dying in a phone's voice-memo app three months after wrap.
 
-The name is the kind of fold you put in a book page to mark a spot you might come back to. An entry in dogear marks a place worth returning to: a setup that worked, a mistake worth remembering, a look you want to use again on the next project.
+The name is the kind of fold you put in a book page to mark a spot you might come back to. An entry in dogear marks a place worth returning to: a setup that worked, a mistake worth remembering, a look you want to use again on the next project. 
 
 ## What this repository contains
 
